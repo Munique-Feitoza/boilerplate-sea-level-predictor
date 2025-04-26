@@ -17,13 +17,14 @@ A visualização é feita através de um gráfico de dispersão e duas linhas de
 - **Linhas de tendência (line of best fit)** para prever a evolução até 2050 com base em diferentes períodos de dados.
 
 ## 📁 Estrutura do Projeto
-
+```
 📦 sea-level-predictor/
-├── sea_level_predictor.py  # Arquivo principal com as funções de cálculo e visualização
-├── main.py                 # Script de teste
-├── test_module.py          # Testes unitários
-├── epa-sea-level.csv       # Conjunto de dados históricos do nível do mar
-└── README.md               # Este arquivo
+├── sea_level_predictor.py  # Arquivo principal com as funções de cálculo e visualização  
+├── main.py                 # Script de teste  
+├── test_module.py          # Testes unitários  
+├── epa-sea-level.csv       # Conjunto de dados históricos do nível do mar  
+└── README.md               # Este arquivo  
+```
 
 ## 🚀 Como Executar
 
